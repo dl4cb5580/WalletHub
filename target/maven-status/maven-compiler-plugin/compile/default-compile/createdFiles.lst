@@ -1,0 +1,7 @@
+com\ef\Parser.class
+com\ef\ParserRunDAO.class
+com\ef\ServerLog.class
+com\ef\ParserRun.class
+com\ef\HibernateUtil.class
+com\ef\ServerLogDAO.class
+com\ef\ParserRunId.class
