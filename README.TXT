@@ -8,4 +8,4 @@
 8. MySQL database is having two table. Server_Log - This table is used to load the server.log file and Parser_Run - this table is used to store the parser run information as per requirement.
 9. Attached is also the Eclipse project for the code base - WalletHub.zip. Kindly unzip it and import into your IDE.
 10 Attached is also the SQL query as required for this exercise - 4 SQL Queries.sql
-11 I have also uploaded the entire project along with the jar files on GitHub - 
+11 I have also uploaded the entire project along with the jar files on GitHub - https://github.com/dl4cb5580/WalletHub
